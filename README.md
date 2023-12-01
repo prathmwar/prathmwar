@@ -8,7 +8,7 @@
 7.Finally, return ans / k as the maximum average value.
 
 
-**Maximum number of vowels in a substring**
+**#Maximum number of vowels in a substring**
 1.Initialize variables: cnt for vowel count.
 2.Iterate through the first k characters in the string:
 3.If the current character is a vowel (using the isVowel function), increment cnt.
